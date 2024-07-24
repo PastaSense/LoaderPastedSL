@@ -1,8 +1,0 @@
-{
-  "status": "success",
-  "lua_files": [
-    "Acidtech",
-    "Volta",
-    "Xoyaw"
-  ]
-}
